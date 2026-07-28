@@ -13,7 +13,7 @@
   --blue-dark:#0f4c75;
   --dark-b: #003566;
   --gray-black: #415a77;
-  --darker-b:#1B262C;
+  --black:#000000;
 
   /* https://colorhunt.co/palette/f9f7f7dbe2ef3f72af112d4e */
 }
@@ -24,10 +24,10 @@ html, body {
 
 /* Use the root variable for primary color in your CSS */
 body {
-  background-color: var(  --white-ish);
+  background-color: var(--white-ish);
   /* font-family: "Open Sans", sans-serif; */
   font-family: 'Ubuntu Sans', sans-serif;
-  color: var(--gray-black);
+  color: var(--black);
   /* padding-bottom: 600px; */
 
   
@@ -95,7 +95,7 @@ h1, h2, h3, h4, h5, h6 {
 /* footer */
 
 .footer-lemos {
-  background-color: #750f42;
+  background-color: #0f4c75;
   font-size: smaller;
 }
 
