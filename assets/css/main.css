@@ -24,7 +24,7 @@ html, body {
 
 /* Use the root variable for primary color in your CSS */
 body {
-  background-color: var(--light-gray);
+  background-color: var(  --white-ish);
   /* font-family: "Open Sans", sans-serif; */
   font-family: 'Ubuntu Sans', sans-serif;
   color: var(--gray-black);
