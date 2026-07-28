@@ -29,7 +29,7 @@ class Header extends HTMLElement {
               <a class="nav-link" href="/pages/teaching.html">Teaching</a>
             </li>
             <li class="nav-item mr-2">
-              <a class="nav-link" href="/pages/projects.html">Projects</a>
+              <a class="nav-link" href="/pages/policywork.html">Policy Work</a>
             </li> 
             <li class="nav-item mr-2">
               <a class="nav-link" href="/pages/publications.html">Publications</a>
